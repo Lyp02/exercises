@@ -6,15 +6,13 @@ murphyk@gmail.com, and provide proof that you are an instructor at a legitimate 
 
 
 
-##### Table of Contents
-[Math](#chap:math)
-[Graphical models](#chap:gm)
 
-<a name="chap:math"/>
-# Math
-Foo
+##### Table of Contents  
+[Headers](#headers)  
 
-<a name="chap:gm"/>
-# Graphical models
-Bar
 
+<a name="headers"/>
+## Headers
+
+* [Gradients](https://github.com/probml/exercises/blob/master/subgradHinge_ex.pdf)
+* [QMR](https://github.com/probml/exercises/blob/master/QMRleaf_ex.pdf)
