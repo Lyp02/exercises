@@ -8,19 +8,21 @@ murphyk@gmail.com, and provide proof that you are an instructor at a legitimate 
 
 
 ### Table of Contents  
-[Math](#math)
-[GM](#gm)
+**[Math](#math)**<br>
+**[GM](#gm)**<br>
+
+## Math
 
 <a name="math"/>
-## Math
+
 * [Gradients](https://github.com/probml/exercises/blob/master/subgradHinge_ex.pdf)
 * [Gradients](https://github.com/probml/exercises/blob/master/subgradHinge_ex.pdf)
 
 
 
-
+## GM
 
 <a name="gm"/>
-## GM
+
 * [QMR](https://github.com/probml/exercises/blob/master/QMRleaf_ex.pdf)
 * [QMR](https://github.com/probml/exercises/blob/master/QMRleaf_ex.pdf)
