@@ -1,13 +1,12 @@
 # Exercises
 Exercises (and solutions) for the book "Machine Learning: a probabilistic perspective" v2.0 (work in progress).
-Please send typos to murphyk@gmail.com.
-Some solutions are stored in a private repo; to request access, send email to
-murphyk@gmail.com, and provide proof that you are an instructor at a legitimate academic institution.
+Please fix typos or make additions by creating a pull request.
+Some solutions (marked with *) are stored in a private repo; to request access, send email
+to murphyk@gmail.com, and provide proof that you are an instructor at a legitimate academic institution.
 
 
 
 
-### Table of Contents  
 **[Math](#math)**<br>
 **[GM](#gm)**<br>
 
@@ -15,8 +14,10 @@ murphyk@gmail.com, and provide proof that you are an instructor at a legitimate 
 
 <a name="math"/>
 
-* [Gradients](https://github.com/probml/exercises/blob/master/subgradHinge_ex.pdf)
-* [Gradients](https://github.com/probml/exercises/blob/master/subgradHinge_ex.pdf)
+* "Subderivative of the hinge loss function".
+[Ex](https://github.com/probml/exercises/blob/master/subgradHinge_ex.pdf)
+[Sol*](private)
+* [Foo](https://github.com/probml/exercises/blob/master/subgradHinge_ex.pdf)
 
 
 
@@ -24,5 +25,7 @@ murphyk@gmail.com, and provide proof that you are an instructor at a legitimate 
 
 <a name="gm"/>
 
-* [QMR](https://github.com/probml/exercises/blob/master/QMRleaf_ex.pdf)
-* [QMR](https://github.com/probml/exercises/blob/master/QMRleaf_ex.pdf)
+* "Removing leaves im BN20 networks".
+[Ex](https://github.com/probml/exercises/blob/master/QMRleaf_ex.pdf)
+[Sol](https://github.com/probml/exercises/blob/master/QMRleaf_sol.pdf)
+
