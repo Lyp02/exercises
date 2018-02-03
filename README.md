@@ -14,9 +14,9 @@ to murphyk@gmail.com, and provide proof that you are an instructor at a legitima
 
 <a name="math"/>
 
-* "Subderivative of the hinge loss function *".
+* "Subderivative of the hinge loss function".
 [Exercise.](https://github.com/probml/exercises/blob/master/subgradHinge_ex.pdf)
-[Solution.](https://github.com/murphyk/probml-solutions/blob/master/subgradHinge_sol.pdf)
+[Solution*.](https://github.com/murphyk/probml-solutions/blob/master/subgradHinge_sol.pdf)
 
 
 
@@ -24,7 +24,7 @@ to murphyk@gmail.com, and provide proof that you are an instructor at a legitima
 
 <a name="gm"/>
 
-* "Removing leaves im BN20 networks".
+* "Removing leaves in BN20 networks".
 [Exercise.](https://github.com/probml/exercises/blob/master/QMRleaf_ex.pdf)
 [Solution.](https://github.com/probml/exercises/blob/master/QMRleaf_sol.pdf)
 
